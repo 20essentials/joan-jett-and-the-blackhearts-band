@@ -1,0 +1,23 @@
+export const nameBand = ' JOAN JETT AND THE BLACKHEARTS ';
+export const nameSongs = [
+	"I LOVE ROCK 'N ROLL", /*1*/
+	"I HATE MYSELF FOR LOVING YOU", /*2*/
+	"DIRTY DEEDS", /*3*/
+	"DO YOU WANNA TOUCH ME", /*4*/
+	"LOVE HURTS", /*5*/
+	"HAVE YOU EVER SEEN THE RAIN?", /*6*/
+	"LITTLE LIAR", /*7*/
+	"ANY WEATHER", /*8*/
+	"DON'T SURRENDER", /*9*/
+	"THE BARBUSTERS", /*10*/
+	"A.C.D.C. 2006", /*11*/
+	"RUN AWAY", /*12*/
+	"YOU DON'T OWN ME", /*13*/
+	"I WANNA BE YOUR DOG", /*14*/
+	"LITTLE DRUMMER", /*15*/
+	"IF YOU'RE BLUE", /*16*/
+	"LOVE IS PAIN", /*17*/
+	"DIFFERENT", /*18*/
+	"SOULMATES TO STRANGERS", /*19*/
+	"BAD AS WE CAN BE", /*20*/
+]
